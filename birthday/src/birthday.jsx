@@ -5,20 +5,20 @@ import { Carousel } from 'react-bootstrap';
 // import './BirthdayPage.css'; // 👈 Un-comment this when your CSS is ready
 
 // Gallery Images
-import a1 from "./images/a1.jpg";
-import a2 from "./images/a2.jpg";
-import a3 from "./images/a3.jpg";
-import a4 from "./images/a4.jpg";
-import a5 from "./images/a5.jpg";
+import a1 from "./assets/images/a1.jpg"
+import a2 from "./assets/images/a2.jpg"
+import a3 from "./assets/images/a3.jpg"
+import a4 from "./assets/images/a4.jpg"
+import a5 from "./assets/images/a5.jpg"
 
 // Video
-import v from "./images/birthday.mp4";
+import v from "./assets/images/birthday.mp4";
 
 // Carousel Images
-import c1 from "./images/a6.jpg";
-import c2 from "./images/a7.jpg";
-import c3 from "./images/a8.jpg";
-import c4 from "./images/a9.jpg";
+import c1 from "./assets/images/a6.jpg";
+import c2 from "./assets/images/a7.jpg";
+import c3 from "./assets/images/a8.jpg";
+import c4 from "./assets/images/a9.jpg";
 
 
 function BirthdayPage() {
